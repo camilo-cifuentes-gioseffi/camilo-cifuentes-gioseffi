@@ -2,7 +2,7 @@
 - 👀 I’m a student in Mechanical and Robotics Engineering 
 - 📫 How to reach me camilogioseffi@gmail.com
 
-  Languages:
+Languages:
   Python C++ MATLAB JavaScript LaTeX
 
 <!---
