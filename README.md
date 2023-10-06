@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @camilo-cifuentes-gioseffi
-- 👀 I’m interested in Mechanics 
-- 🌱 I’m currently learning at the ENSMM
+- 👀 I’m a student in Mechanical and Robotics Engineering 
 - 📫 How to reach me camilogioseffi@gmail.com
 
 <!---
