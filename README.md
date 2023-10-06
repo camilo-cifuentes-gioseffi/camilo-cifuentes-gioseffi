@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @camilo-cifuentes-gioseffi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Mechanics 
+- 🌱 I’m currently learning at the ENSMM
 - 📫 How to reach me camilogioseffi@gmail.com
 
 <!---
