@@ -3,7 +3,7 @@
 - 📫 How to reach me camilogioseffi@gmail.com
 
 Languages:
-  Python C++ MATLAB JavaScript LaTeX
+  Python C++ MATLAB Java LaTeX SQL
 
 <!---
 camilo-cifuentes-gioseffi/camilo-cifuentes-gioseffi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
