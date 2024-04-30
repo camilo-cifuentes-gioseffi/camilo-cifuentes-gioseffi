@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @camilo-cifuentes-gioseffi
-- 👀 I’m a student in Mechanical and Robotics Engineering 
-- 📫 How to reach me camilogioseffi@gmail.com
+- 👀 I’m a Mechanical and Robotics Engineer.
+- 📫 How to reach me
 
 Languages:
   Python C++ MATLAB Java LaTeX SQL
